@@ -1,1 +1,2 @@
-# IA-OPENSCIENCE
+# IA-OPENSCIENCE 
+Author: Alejandro Hernandez Segovia 
